@@ -1,0 +1,15 @@
+{
+  "name": "primer_ejercicio",
+  "version": "1.0.0",
+  "description": "Este es el primer ejercicio que hago, veamos que tal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Project",
+    "First"
+  ],
+  "author": "Carlos Millán",
+  "license": "ISC"
+}
